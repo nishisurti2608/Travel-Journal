@@ -2,7 +2,7 @@
   "name": "travel_journal",
   "version": "1.0.0",
   "description": "Small react app to learn data driven behaviour of React",
-  "main": "index.js",
+ 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
@@ -24,6 +24,8 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.4",
+    "glob": "^11.0.1",
+    "netlify-cli": "^18.0.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.4.0",
